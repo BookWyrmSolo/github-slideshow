@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Out of the frying pan, and into the fire!
 Use the left arrow to go back!
